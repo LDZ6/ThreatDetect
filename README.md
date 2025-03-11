@@ -52,6 +52,7 @@
 │   │   ├── word2vec.model                 # 预训练 Word2Vec 模型（用于节点词嵌入）
 │   │   ├── .idea/                         # IDE 配置文件（例如 PyCharm）
 │   │   └── __pycache__/                   # Python 字节码缓存
+│   ├── ......                             # 若干模型参数
 ├── .idea/                                 # 项目级别 IDE 配置文件
 └── __pycache__/                           # Python 字节码缓存文件夹
 ```
