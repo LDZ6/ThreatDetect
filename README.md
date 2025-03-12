@@ -193,6 +193,9 @@
   python app.py
   ```
   访问 `http://localhost:5000` 查看 Webshell 和恶意软件检测结果。
+  
+![image](https://github.com/user-attachments/assets/32f7b76e-c953-4b26-b714-e435b4223dc6)
+![image](https://github.com/user-attachments/assets/8df702b9-02e6-429e-b700-0cdca66b93b6)
 
 - **单独测试各模型**：可通过命令行运行相应的脚本（如 `Webshell_Detect_FC.py`、`PE_Detect_FC.py`）进行模型单独测试。
 
